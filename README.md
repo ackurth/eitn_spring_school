@@ -1,2 +1,3 @@
-# eitn_spring_school
-EITN Spring School NEST-Tutorial
+# Jupyter Notebooks
+
+All notebooks can be used as presentations using [RISE](https://damianavila.github.io/RISE/).
